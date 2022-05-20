@@ -1,0 +1,31 @@
+{
+    "estudiantes": [
+        {
+            "nombre": "Max",
+            "edad": 18,
+            "color de cabello": "negro",
+            "cualidades": {
+                "cualidades_companero_clase": [
+                    "responsable",
+                    "humilde"
+                ]
+            }
+        },
+        {
+            "nombre": "Laura",
+            "edad": 18,
+            "color de cabello": "negro",
+            "cualidades": {
+                "cualidades_companero_clase": ["responsable","atenta","humilde","amigable"]
+            }
+        },
+        {
+            "nombre": "Paquito",
+            "edad": 5,
+            "color de cabello": "negro",
+            "cualidades": {
+                "cualidades_companero_clase": ["buena nota"]
+            }
+        }
+    ]
+}
